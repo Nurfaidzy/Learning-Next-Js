@@ -3,10 +3,8 @@ import Header from "../../Components/Header";
 export default function Homepage() {
   return (
     <div>
-      <dir>
-        <Header />
-      </dir>
-      <div>Homepage</div>;
+      <Header />
+      <div>Homepage</div>
     </div>
   );
 }
